@@ -4,7 +4,7 @@
 ```markdown
 # Interaction Service
 
-This service handles interactions with discussions such as liking, commenting, replying to comments, and following users.
+This service handles interactions with discussions such as liking, commenting, replying to comments.
 
 ## Prerequisites
 
